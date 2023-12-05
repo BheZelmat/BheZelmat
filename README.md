@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Natural Language Processing, Large Language Models, AWS**
 
-💬 Ask me about **Python, R, AI, Deep Learning... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, R, AI, Deep Learning... or anything [here](https://linkedin.com/in/bhezelmat0)**
 
 ⚡ Favorite Quote **Fredrich Nietzsche: “He who has a why to live can bear almost any how.”**
 
