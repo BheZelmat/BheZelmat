@@ -14,7 +14,7 @@
 
 💬 Ask me about **Python, R, AI, Deep Learning... or anything [here](https://linkedin.com/in/bhezelmat0)**
 
-⚡ Favorite Quote **Fredrich Nietzsche: “He who has a why to live can bear almost any how.”**
+⚡ Favorite Quote : **“He who has a why to live can bear almost any how.” _Fredrich Nietzsche_**
 
  </div>
  
